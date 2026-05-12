@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: #000;
+}
+.cardData {
+  padding: 1.4rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 12px;
+}
+.card {
+  width: 300px;
+  height: 300px;
+  background: #b3b2b2;
+  border-radius: 0.5rem;
+  text-align: center;
+}
+.dollImg {
+  margin-top: 0.4rem;
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.follow {
+  margin-top: 1rem;
+}
+.fbtn {
+ 
+  border-radius: 0.5rem;
+ outline: none;
+  border: none;
+  font-size: 1.3rem;
+  
+}
+ 
+.fbtn:active {
+    scale: 0.9;
+    
+    
+    
+}
