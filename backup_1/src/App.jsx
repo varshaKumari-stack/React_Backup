@@ -34,7 +34,7 @@ const App = () => {
     {
       name: "Kabir Mehta",
       age: 25,
-      image: "https://images.unsplash.com/photo-1502767089025-6572583495b0",
+      image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
       description: "Fitness trainer and part-time mobile app developer.",
       isFollowed: true,
     },
